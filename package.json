@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "concat": "^1.0.3",
+    "postcss-cli": "^10.1.0"
+  },
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
